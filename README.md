@@ -1,8 +1,8 @@
 ## How to use
 *Created in 2005*
 
-* Copy file *RITslip.pas* to project folder.
-* Add in section *uses*: "RITslip" and in *private*: "RITslip : TeRITslip"
+* Copy file `RITslip.pas` to project folder.
+* Add in section `uses : "RITslip"` and in `private : "RITslip : TeRITslip"`
 **Done!**
 
 Example:
